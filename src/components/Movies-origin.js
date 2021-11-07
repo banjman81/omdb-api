@@ -1,4 +1,4 @@
-import MovieDetail from './MovieDetail'
+import MovieDetail from './MainMovieDetail'
 import axios from 'axios'
 import React, { Component } from 'react'
 require('dotenv').config()
